@@ -30,6 +30,9 @@ public class MainActivity extends Activity {
     TextView btnAccount1;
     TextView forgotpassword;
 
+
+    // My Mainactivity class
+
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
